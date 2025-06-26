@@ -46,25 +46,3 @@ Você pode:
 **Lorena Barcellos de Souza**  
 Estudante de Análise e Desenvolvimento de Sistemas  
 Estagiária de TI (Desenvolvimento iOS)
-
----
-
-## 📁 Como rodar o projeto
-
-> O projeto está em SwiftUI e pode ser aberto diretamente no **Xcode 14+**
-
-1. Clone ou baixe o repositório
-2. Abra o arquivo `.xcodeproj` ou `.xcodeworkspace`
-3. Execute no simulador ou dispositivo
-
----
-
-## 📦 Upload manual via GitHub (caso não use Git local)
-
-Se você não está conseguindo usar o Git pelo terminal:
-
-1. Compacte a pasta do projeto (`.zip`)
-2. Crie um repositório no GitHub
-3. Vá até a aba **"Add file" > "Upload files"**
-4. Faça o upload do `.zip` e do `README.md`
-5. Clique em **"Commit changes"**
